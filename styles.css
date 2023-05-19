@@ -1,0 +1,24 @@
+body{
+    background-image: url(blurry-gradient-haikei.svg);
+    background-position: center;
+    background-size:2100%;
+}
+.carouselExampleControls{
+    block-size: 50%;
+}
+
+.huina{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.accordion{
+    color: aquamarine;
+}
+.accordion-item{
+    color: aquamarine;
+}
+
+.accordion-button{
+    color:aquamarine
+}
